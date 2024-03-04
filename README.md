@@ -18,9 +18,9 @@ bad loans to investigate the health of our bank, analyze product-level trends.
 # Screenshots of Power BI *Adventure Works* Final Report :-
 
 ## Report View : 
-### 1)Summary -![Screenshot 2024-03-04 160716](https://github.com/mallela-sridhar-reddy/Excel-bank-loan-analysis/assets/115725595/8143bf10-2da7-4697-8fd1-1d3756157e00)
+### 1)Overview -![Screenshot 2024-03-04 160716](https://github.com/mallela-sridhar-reddy/Excel-bank-loan-analysis/assets/115725595/8143bf10-2da7-4697-8fd1-1d3756157e00)
 
-### 2)Overview -![Screenshot 2024-03-04 160738](https://github.com/mallela-sridhar-reddy/Excel-bank-loan-analysis/assets/115725595/0f75c54c-f4c0-4217-9fbc-9b035cdfdadf)
+### 2)Summary -![Screenshot 2024-03-04 160738](https://github.com/mallela-sridhar-reddy/Excel-bank-loan-analysis/assets/115725595/0f75c54c-f4c0-4217-9fbc-9b035cdfdadf)
 
 
 All the source CSV files (containing information about transactions, returns, products, customers and territories) were made available in the github repository itself. 
